@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Euclid Flex';
+	src: local('Euclid Flex Light'), local('Euclid-Flex-Light'),
+	url('../fonts/EuclidFlex-Light.woff2') format('woff2'),
+	url('../fonts/EuclidFlex-Light.woff') format('woff'),
+	url('../fonts/EuclidFlex-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Flex';
+	src: local('Euclid Flex Regular'), local('Euclid-Flex-Regular'),
+	url('../fonts/EuclidFlex-Regular.woff2') format('woff2'),
+	url('../fonts/EuclidFlex-Regular.woff') format('woff'),
+	url('../fonts/EuclidFlex-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Flex';
+	src: local('Euclid Flex Medium'), local('Euclid-Flex-Medium'),
+	url('../fonts/EuclidFlex-Medium.woff2') format('woff2'),
+	url('../fonts/EuclidFlex-Medium.woff') format('woff'),
+	url('../fonts/EuclidFlex-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Flex';
+	src: local('Euclid Flex Semi Bold'), local('Euclid-Flex-Semi-Bold'),
+	url('../fonts/EuclidFlex-SemiBold.woff2') format('woff2'),
+	url('../fonts/EuclidFlex-SemiBold.woff') format('woff'),
+	url('../fonts/EuclidFlex-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Euclid Flex';
+	src: local('Euclid Flex Bold'), local('Euclid-Flex-Bold'),
+	url('../fonts/EuclidFlex-Bold.woff2') format('woff2'),
+	url('../fonts/EuclidFlex-Bold.woff') format('woff'),
+	url('../fonts/EuclidFlex-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
