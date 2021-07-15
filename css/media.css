@@ -1587,6 +1587,20 @@
 	.unint-equipment__title sup {
 		font-size: 13px;
 	}
+	.nav-construction .slick-track {
+    display: flex !important;
+}
+.nav-construction .slick-slide {
+    height: inherit !important;
+}
+.nav-construction__item {
+	display: flex;
+	min-height: 100%;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	line-height: 22px;
+}
 }
 @media only screen and (max-width : 350px) {
 	.unint-equipment__title {
