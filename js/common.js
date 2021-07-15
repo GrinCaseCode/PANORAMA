@@ -276,6 +276,13 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 			settings: {
 				slidesToShow: 4,
 			}
+		},
+		{
+			breakpoint: 480,
+			settings: {
+				slidesToShow: 2,
+				variableWidth: false,
+			}
 		}
 		]
 	});
